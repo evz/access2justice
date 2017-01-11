@@ -1,0 +1,13 @@
+/* Custom styles */
+body {
+    background-color: #95b0ba;
+    color: #000;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+
+p > a {
+    color: #666;
+}
